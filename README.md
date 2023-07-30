@@ -3,14 +3,9 @@
 A new Flutter project.
 
 ## Getting Started
+For Image cache Ootimization I used a Package called network_cache_Image , the store the 
+image cache for 7 days and will automatically delete the cache from the memory 
+Even if the users data is off , the user can see the priviously Loaded Images 
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
